@@ -8,7 +8,7 @@
 
 export const environment = {
   production: false,
-  baseUrl: 'http://ec2-18-220-231-146.us-east-2.compute.amazonaws.com:3000/api'  
+  baseUrl: 'https://stark-savannah-63645.herokuapp.com/api' 
 };
 
 /*
