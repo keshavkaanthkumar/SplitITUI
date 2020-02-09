@@ -36,7 +36,7 @@ const googleLoginOptions: LoginOpt = {
 let config = new AuthServiceConfig([
   {
     id: GoogleLoginProvider.PROVIDER_ID,
-    provider: new GoogleLoginProvider("1069388635656-r5q2e2in9ttuvlsjtg65jrnflrcgb652.apps.googleusercontent.com", googleLoginOptions)
+    provider: new GoogleLoginProvider("1069388635656-rusvaleb69r8n827if74erha0g2tjfpn.apps.googleusercontent.com", googleLoginOptions)
   }
 ]);
 export function provideConfig() {
